@@ -46,7 +46,7 @@
     "framework-arduinoespressif8266": {
       "type": "framework",
       "optional": true,
-      "version": "https://github.com/esp8266/Arduino.git"
+      "version": "https://github.com/ztittle/Arduino-1.git#fix-exception28-wificlientsecure"
     },
     "framework-esp8266-rtos-sdk": {
       "type": "framework",
